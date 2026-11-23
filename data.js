@@ -34,7 +34,7 @@ window.PROJECTS = [
     "palette": "ink",
     "size": "standard",
     "statement": "",
-    "description": "We built Squid Game's famous 'Red light, green light' into the Just Eat app, so fans could play it for real. Launched with a bespoke menu, a rave with Peggy Gou, and a big old ad.",
+    "description": "We built Squid Game's famous 'Red light, green light' into the Just Eat app, so fans could play it for real. Launched with a bespoke menu, a rave with Peggy Gou, and a big old ad. This had the highest brand uplift of any Netflix partnership.",
     "films": 2,
     "videos": [
       "ueR59j8WQe8",
