@@ -62,13 +62,6 @@ window.PROJECTS = [
         "alt": "Peggy Gou with Squid Game guards"
       },
       {
-        "src": "assets/jetflix-unboxing.webp",
-        "width": 459,
-        "height": 668,
-        "alt": "Two fans unboxing the Just Eat Squid Game meal",
-        "narrow": true
-      },
-      {
         "src": "assets/jetflix-influencer.webp",
         "width": 335,
         "height": 597,
