@@ -42,6 +42,14 @@ window.PROJECTS = [
     "finalCopy": true,
     "gallery": [
       {
+        "src": "assets/jetflix-gameplay-poster.webp",
+        "width": 540,
+        "height": 960,
+        "alt": "Gameplay of ELIMINATE, Just Eat’s Squid Game challenge, on a phone",
+        "motionSrc": "assets/jetflix-gameplay.mp4",
+        "narrow": true
+      },
+      {
         "src": "assets/jetflix-menu.webp",
         "width": 1600,
         "height": 873,

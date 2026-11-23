@@ -49,6 +49,12 @@
     project.gallery.forEach(item=>{
       const figure=document.createElement("figure");
       if(item.narrow)figure.className="is-narrow";
+      if(item.motionSrc){
+        const clip=document.createElement("video");
+        clip.className="motion-clip";clip.src=item.motionSrc;clip.poster=item.src;clip.width=item.width;clip.height=item.height;
+        clip.muted=true;clip.loop=true;clip.playsInline=true;clip.preload="none";clip.setAttribute("aria-label",item.alt);
+        figure.append(clip);gallery.append(figure);return;
+      }
       const img=document.createElement("img");
       img.src=item.src;img.alt=item.alt;img.loading="lazy";img.decoding="async";
       if(item.srcset){img.srcset=item.srcset;img.sizes=project.galleryLayout==="campaign"?"(max-width:760px) 93vw, 90vw":"93vw";}
