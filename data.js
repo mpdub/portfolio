@@ -21,50 +21,26 @@ window.PROJECTS = [
     "finalCopy": true
   },
   {
-    "id": "just-eat-netflix",
+    "id": "telstra-watch-plans",
     "number": "02",
-    "brand": "Just Eat × Netflix",
-    "title": "The Next Game is Served",
-    "location": "United Kingdom",
+    "brand": "Telstra",
+    "title": "Wherever they go",
+    "location": "Australia",
     "year": "Year to confirm",
-    "image": "assets/jetflix.webp",
-    "imageWidth": 1920,
-    "imageHeight": 1080,
-    "imageSrcset": "assets/jetflix-640.webp 640w, assets/jetflix-1280.webp 1280w, assets/jetflix.webp 1920w",
-    "palette": "ink",
+    "image": "assets/watch-octopus-2048.webp",
+    "imageWidth": 2048,
+    "imageHeight": 698,
+    "imageSrcset": "assets/watch-octopus-640.webp 640w, assets/watch-octopus-1280.webp 1280w, assets/watch-octopus-2048.webp 2048w",
+    "palette": "coral",
     "size": "standard",
     "statement": "",
-    "description": "We built Squid Game's famous 'Red light, green light' into the Just Eat app, so fans could play it for real. Launched with a bespoke menu, a rave with Peggy Gou, and a big old ad. This had the highest brand uplift of any Netflix partnership.",
+    "description": "Childhood adventures encouraged with Telstra's new watch plans for kids with Apple Watches.",
     "films": 2,
     "videos": [
-      "ueR59j8WQe8",
-      "YIEeM4vSQdI"
+      "1B5KmvbjK-o",
+      "GFyfAYxZ96w"
     ],
-    "videoAspects": [
-      "landscape",
-      "portrait"
-    ],
-    "finalCopy": true,
-    "gallery": [
-      {
-        "src": "assets/jetflix-menu.webp",
-        "width": 1600,
-        "height": 873,
-        "alt": "Squid Game menu in the Just Eat app, shown in a food review video"
-      },
-      {
-        "src": "assets/jetflix-peggy.webp",
-        "width": 1200,
-        "height": 630,
-        "alt": "Peggy Gou with Squid Game guards"
-      },
-      {
-        "src": "assets/jetflix-influencer.webp",
-        "width": 335,
-        "height": 597,
-        "alt": "An influencer playing Just Eat’s Squid Game challenge"
-      }
-    ]
+    "finalCopy": true
   },
   {
     "id": "lays-messi-messages",
@@ -109,26 +85,50 @@ window.PROJECTS = [
     ]
   },
   {
-    "id": "telstra-watch-plans",
+    "id": "just-eat-netflix",
     "number": "04",
-    "brand": "Telstra",
-    "title": "Wherever they go",
-    "location": "Australia",
+    "brand": "Just Eat × Netflix",
+    "title": "The Next Game is Served",
+    "location": "United Kingdom",
     "year": "Year to confirm",
-    "image": "assets/watch-octopus-2048.webp",
-    "imageWidth": 2048,
-    "imageHeight": 698,
-    "imageSrcset": "assets/watch-octopus-640.webp 640w, assets/watch-octopus-1280.webp 1280w, assets/watch-octopus-2048.webp 2048w",
-    "palette": "coral",
+    "image": "assets/jetflix.webp",
+    "imageWidth": 1920,
+    "imageHeight": 1080,
+    "imageSrcset": "assets/jetflix-640.webp 640w, assets/jetflix-1280.webp 1280w, assets/jetflix.webp 1920w",
+    "palette": "ink",
     "size": "standard",
     "statement": "",
-    "description": "Childhood adventures encouraged with Telstra's new watch plans for kids with Apple Watches.",
+    "description": "We built Squid Game's famous 'Red light, green light' into the Just Eat app, so fans could play it for real. Launched with a bespoke menu, a rave with Peggy Gou, and a big old ad. This had the highest brand uplift of any Netflix partnership.",
     "films": 2,
     "videos": [
-      "1B5KmvbjK-o",
-      "GFyfAYxZ96w"
+      "ueR59j8WQe8",
+      "YIEeM4vSQdI"
     ],
-    "finalCopy": true
+    "videoAspects": [
+      "landscape",
+      "portrait"
+    ],
+    "finalCopy": true,
+    "gallery": [
+      {
+        "src": "assets/jetflix-menu.webp",
+        "width": 1600,
+        "height": 873,
+        "alt": "Squid Game menu in the Just Eat app, shown in a food review video"
+      },
+      {
+        "src": "assets/jetflix-peggy.webp",
+        "width": 1200,
+        "height": 630,
+        "alt": "Peggy Gou with Squid Game guards"
+      },
+      {
+        "src": "assets/jetflix-influencer.webp",
+        "width": 335,
+        "height": 597,
+        "alt": "An influencer playing Just Eat’s Squid Game challenge"
+      }
+    ]
   },
   {
     "id": "planet-vs-bolsonaro",
