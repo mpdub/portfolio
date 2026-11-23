@@ -42,6 +42,14 @@ window.PROJECTS = [
     "finalCopy": true,
     "gallery": [
       {
+        "src": "assets/jetflix-gameplay-poster.webp",
+        "width": 540,
+        "height": 960,
+        "alt": "Gameplay of ELIMINATE, Just Eat’s Squid Game challenge, on a phone",
+        "motionSrc": "assets/jetflix-gameplay.mp4",
+        "narrow": true
+      },
+      {
         "src": "assets/jetflix-menu.webp",
         "width": 1600,
         "height": 873,
@@ -52,6 +60,13 @@ window.PROJECTS = [
         "width": 1200,
         "height": 630,
         "alt": "Peggy Gou with Squid Game guards"
+      },
+      {
+        "src": "assets/jetflix-unboxing.webp",
+        "width": 459,
+        "height": 668,
+        "alt": "Two fans unboxing the Just Eat Squid Game meal",
+        "narrow": true
       },
       {
         "src": "assets/jetflix-influencer.webp",
