@@ -35,20 +35,17 @@ window.PROJECTS = [
     "size": "standard",
     "statement": "",
     "description": "We built Squid Game's famous 'Red light, green light' into the Just Eat app, so fans could play it for real. Launched with a bespoke menu, a rave with Peggy Gou, and a big old ad.",
-    "films": 1,
+    "films": 2,
     "videos": [
-      "ueR59j8WQe8"
+      "ueR59j8WQe8",
+      "YIEeM4vSQdI"
+    ],
+    "videoAspects": [
+      "landscape",
+      "portrait"
     ],
     "finalCopy": true,
     "gallery": [
-      {
-        "src": "assets/jetflix-gameplay-poster.webp",
-        "width": 540,
-        "height": 960,
-        "alt": "Gameplay of ELIMINATE, Just Eat’s Squid Game challenge, on a phone",
-        "motionSrc": "assets/jetflix-gameplay.mp4",
-        "narrow": true
-      },
       {
         "src": "assets/jetflix-menu.webp",
         "width": 1600,
